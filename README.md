@@ -1,4 +1,11 @@
-# totebag
+<div style="text-align: center">
+
+![totebag logo](./docs/logo.png)
+
+# Totebag
+*author web pages with your browser (eventually)*
+
+</div>
 
 To install dependencies:
 
@@ -9,7 +16,7 @@ bun install
 To run:
 
 ```bash
-bun run index.ts
+bun run index.ts $WATCH_DIR
 ```
 
-This project was created using `bun init` in bun v1.0.22. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+where `$WATCH_DIR` is whatever you want to start with
