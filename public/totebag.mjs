@@ -1,6 +1,3 @@
-// import { Editor } from 'https://esm.sh/@tiptap/core'
-// import StarterKit from 'https://esm.sh/@tiptap/starter-kit'
-
 import { getCssSelector } from "https://esm.sh/css-selector-generator";
 import {
   keymap, highlightSpecialChars, drawSelection, highlightActiveLine, dropCursor,
